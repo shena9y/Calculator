@@ -1,10 +1,12 @@
-# 🧮 Calculator
+﻿# 🧮 Calculator
 
 A basic, fully working calculator built with HTML, CSS, and vanilla JavaScript. Click the buttons to build an expression, then hit `=` to evaluate it — or `C` to clear and start over.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+🔗 **Live Demo:** [https://shena9y.github.io/Calculator/](https://shena9y.github.io/Calculator/)
 
 ## ✨ Features
 
@@ -32,6 +34,8 @@ Calculator/
 
 ## 🚀 Getting Started
 
+**Try it live:** [https://shena9y.github.io/Calculator/](https://shena9y.github.io/Calculator/) — no installation needed!
+
 1. Clone the repository
    ```bash
    git clone https://github.com/shena9y/Calculator.git
@@ -43,6 +47,9 @@ Calculator/
 
 ![Calculator Screenshot](screenshot.png)
 
+🔗 **Live Demo:** [https://shena9y.github.io/Calculator/](https://shena9y.github.io/Calculator/)
+
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
